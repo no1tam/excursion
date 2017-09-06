@@ -1,0 +1,50 @@
+.wrapper {
+    background-color: #222;
+    margin: 0;
+}
+
+body {
+	background-color: #000;
+	font-family: verdana;
+	color: white;
+}
+
+h1 {
+	color: White;
+	font-size: 50px;
+	text-align: center;
+	font-weight: normal;
+}
+
+h2 {
+	color: White;
+	font-size: 42px;
+	text-align: center;
+}
+
+.video {
+	display: block;
+	margin: 0 auto;
+}
+
+h3 {
+    font-size: 21px;
+    color: Gray;
+    text-align: center;
+}
+
+.download {
+	color: aquamarine;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+aside {
+	text-align: right;
+}
